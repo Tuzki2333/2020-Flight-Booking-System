@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>WechatIMG151911.png</file>
+  </qresource>
+</RCC>
